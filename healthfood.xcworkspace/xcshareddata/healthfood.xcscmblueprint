@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fca62aee-43ee-4fc9-bd95-a09f888f18a4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fca62aee-43ee-4fc9-bd95-a09f888f18a4" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fca62aee-43ee-4fc9-bd95-a09f888f18a4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "14228953-9D1B-422D-9629-6B24B3BE2928",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fca62aee-43ee-4fc9-bd95-a09f888f18a4" : "healthfood"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "healthfood",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "healthfood\/healthfood.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/healthfood",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fca62aee-43ee-4fc9-bd95-a09f888f18a4"
+    }
+  ]
+}
